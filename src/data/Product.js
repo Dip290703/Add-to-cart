@@ -1,0 +1,58 @@
+export const products = [
+  {
+    id: 1,
+    name: "Wireless Headphones",
+    description: "High-quality over-ear wireless headphones with noise cancellation.",
+    price: 4999,
+    image: "https://images.unsplash.com/photo-1585386959984-a4155224a1a4?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 2,
+    name: "Running Shoes",
+    description: "Lightweight, breathable running shoes perfect for daily workouts.",
+    price: 2999,
+    image: "https://images.unsplash.com/photo-1600180758890-6b94519d72b0?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 3,
+    name: "Smartwatch",
+    description: "Track your fitness and stay connected with this stylish smartwatch.",
+    price: 6999,
+    image: "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 4,
+    name: "Backpack",
+    description: "Durable, waterproof backpack for work, school, or travel.",
+    price: 1499,
+    image: "https://images.unsplash.com/photo-1626204327506-dc8c2786e8de?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 5,
+    name: "Gaming Mouse",
+    description: "Ergonomic mouse with customizable RGB lights and fast response time.",
+    price: 1299,
+    image: "https://images.unsplash.com/photo-1611926653458-b3a60b5643db?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 6,
+    name: "Bluetooth Speaker",
+    description: "Portable speaker with deep bass and 12-hour battery life.",
+    price: 2499,
+    image: "https://images.unsplash.com/photo-1580894732444-3f36f8c83f73?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 7,
+    name: "Office Chair",
+    description: "Comfortable and adjustable chair ideal for work-from-home setup.",
+    price: 8499,
+    image: "https://images.unsplash.com/photo-1603808033192-082d6919d9de?auto=format&fit=crop&w=600&q=80",
+  },
+  {
+    id: 8,
+    name: "DSLR Camera",
+    description: "Professional DSLR with 24MP sensor and full HD video recording.",
+    price: 45999,
+    image: "https://images.unsplash.com/photo-1519183071298-a2962be96a00?auto=format&fit=crop&w=600&q=80",
+  },
+];
